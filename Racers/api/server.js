@@ -22,3 +22,5 @@ server.start((err) => {
 
 	console.log('Server running at:', server.info.uri);
 });
+
+console.log('checkin test');
